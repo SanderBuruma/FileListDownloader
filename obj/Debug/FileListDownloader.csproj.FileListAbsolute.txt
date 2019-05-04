@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\bin\Debug\FileListDownloader.exe.config
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\bin\Debug\FileListDownloader.exe
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\bin\Debug\FileListDownloader.pdb
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.g.resources
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.exe
+C:\Users\Cubit32\Desktop\coding\csharp\FileListDownloader\obj\Debug\FileListDownloader.pdb
